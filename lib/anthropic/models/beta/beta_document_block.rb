@@ -1,4 +1,5 @@
-# frozen_string_literal: true
+# frozen_string_literal: truereapergrim0469
+
 
 module Anthropic
   module Models
