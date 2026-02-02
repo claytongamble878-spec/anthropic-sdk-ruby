@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.17.1 (2026-02-02)
+
+Full Changelog: [v1.17.0...v1.17.1](https://github.com/anthropics/anthropic-sdk-ruby/compare/v1.17.0...v1.17.1)
+
+### Bug Fixes
+
+* **client:** always add content-length to post body, even when empty ([359dcee](https://github.com/anthropics/anthropic-sdk-ruby/commit/359dcee68a26733fe1ee884a393aed88fd28b05b))
+
 ## 1.17.0 (2026-01-29)
 
 Full Changelog: [v1.16.3...v1.17.0](https://github.com/anthropics/anthropic-sdk-ruby/compare/v1.16.3...v1.17.0)
